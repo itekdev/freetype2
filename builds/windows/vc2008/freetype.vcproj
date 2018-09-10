@@ -493,12 +493,12 @@
 			<File
 				RelativePath="..\ftdebug.c"
 				>
-				<FileConfiguration>
+				<!-- <FileConfiguration>
 					<Tool
 						Name="VCCLCompilerTool"
 						DisableLanguageExtensions="false"
 					/>
-				</FileConfiguration>
+				</FileConfiguration> -->
 			</File>
 			<File
 				RelativePath="..\..\..\src\base\ftfstype.c"
