@@ -498,7 +498,7 @@
 						Name="VCCLCompilerTool"
 						DisableLanguageExtensions="false"
 					/>
-				</FileConfiguration> -->
+				</FileConfiguration>  -->
 			</File>
 			<File
 				RelativePath="..\..\..\src\base\ftfstype.c"
